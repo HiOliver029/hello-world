@@ -1,2 +1,2 @@
 # hello-world
-repository is like a container
+Hey guys! I'm a new blood in coding.
